@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="2024" />
+    <BuildType Name="2025" />
+    <BuildType Name="Debug" />
+    <BuildType Name="Release" />
+  </Configurations>
+  <Project Path="RevitMulti1/RevitMulti1.csproj" />
+</Solution>
